@@ -10,7 +10,7 @@
   </a>
     <a href="https://instagram.com/souzabel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-      <a href="https://discord.com/channels/@me/958141263629131807" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+      <a href="https://discord.com/channels/Souzabel#2501"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   <img align="right" alt="Bel-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_h61nkcIC.png">
 </div>
