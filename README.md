@@ -2,7 +2,7 @@
    I’m Isabel Souza
 
 
-I'm a student of <b>*Systems Analysis and Development*</b> and intern at [Avanade Brazil](https://www.avanade.com/pt-br).<br>
+I'm a student of <b>*Analysis and Systems Development*</b> and intern at [Avanade Brazil](https://www.avanade.com/pt-br).<br>
 Living in Belo Horizonte, Brazil 🇧🇷
 
 - :pencil: I am currently studying *Csharp, .Net and Angular*
