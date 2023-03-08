@@ -5,8 +5,8 @@
 I'm a student of <b>*Analysis and Systems Development*</b> and intern at [Avanade Brazil](https://www.avanade.com/pt-br).<br>
 Living in Belo Horizonte, Brazil 🇧🇷
 
-- :pencil: I am currently studying *Csharp, .Net and Angular*
-- :computer: JavaScript, ReactJS, Node, Nest, Typescript
+- :pencil: I am currently studying *Node and NestJS*
+- :computer: JavaScript, Csharp, TypeScript and Angular
 - :arrow_down: Connect with me on other networks
 
 <div>
