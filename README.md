@@ -6,7 +6,7 @@ I'm a student of <b>*Analysis and Systems Development*</b> and intern at [Avanad
 Living in Belo Horizonte, Brazil 🇧🇷
 
 - :pencil: I am currently studying *Node and NestJS*
-- :computer: JavaScript, Csharp, TypeScript and Angular
+- :computer: JavaScript, TypeScript and Angular
 - :arrow_down: Connect with me on other networks
 
 <div>
